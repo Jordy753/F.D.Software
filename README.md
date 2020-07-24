@@ -8,5 +8,8 @@ En el video se trabajo con DBBrowser para leer la base de datos generada por Dja
 datos de forma rapida con las diferentes instrucciones que mostramos en el video que realizaban lectura, modificacion, eliminacion y crear resaltaremos 
 que esas instrucciones mostradas en el video son elementos que seran convertidos por Django a codigo sql me refiero insert into o como update entre otros  
 
+Proyecto/db.sqlite3 esta direccion en el repositorio tenemos la base de datos generada y con la que hemos trabajado en el video puede observar las diferentes 
+tablas que hemos generado y las tablas que crea Django por defecto ya que son necesarias para el framework
+
 Enlace del video:
 https://drive.google.com/file/d/1AcaNvDFCO1yfLo-nHMLk3tciS9JMu9Mx/view?usp=sharing
